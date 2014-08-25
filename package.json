@@ -1,0 +1,28 @@
+{
+  "name": "stack-test",
+  "version": "0.0.0",
+  "description": "Stack test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronprattedwards/stack-test.git"
+  },
+  "keywords": [
+    "Stack",
+    "test"
+  ],
+  "author": "Cameron Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronprattedwards/stack-test/issues"
+  },
+  "homepage": "https://github.com/cameronprattedwards/stack-test",
+  "devDependencies": {
+    "gulp-uglify": "~0.3.1",
+    "gulp-requirejs": "~0.1.3",
+    "gulp": "~3.8.7"
+  }
+}
